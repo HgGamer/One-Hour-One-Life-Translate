@@ -1,0 +1,24 @@
+{
+  "name": "one-hour-one-life-translate",
+  "version": "1.0.0",
+  "description": "translation installer script",
+  "main": "translate.js",
+  "scripts": {
+    "start": "node translate.js",
+    "build": "nexe translate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HgGamer/One-Hour-One-Life-Translate.git"
+  },
+  "author": "Catfood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HgGamer/One-Hour-One-Life-Translate/issues"
+  },
+  "homepage": "https://github.com/HgGamer/One-Hour-One-Life-Translate#readme",
+  "dependencies": {
+    "nexe": "^2.0.0-rc.26"
+  }
+}
