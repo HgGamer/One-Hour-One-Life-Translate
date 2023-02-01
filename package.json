@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/HgGamer/One-Hour-One-Life-Translate#readme",
   "dependencies": {
-    "nexe": "^2.0.0-rc.26"
+    "nexe": "^4.0.0-rc.2"
   }
 }
